@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Criação de Personagem</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtNomePersonagem">Nome do personagem: </string>
+    <string name="txtNivel">Nível: </string>
+    <string name="txtRaca">Raça: </string>
+    <string name="txtClasse">Classe: </string>
+    <string name="txtGuerreiro">Guerreiro</string>
+    <string name="txtMago">Mago</string>
+    <string name="txtArqueiro">Arqueiro</string>
+    <string name="txtAdicionar">Adicionar</string>
+</resources>
